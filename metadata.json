@@ -1,0 +1,7 @@
+{
+  "name": "VibeStudio TTS",
+  "description": "A powerful neural text-to-speech studio featuring high-fidelity voice synthesis and reference audio capabilities. Powered by Gemini 2.5 Flash TTS.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
